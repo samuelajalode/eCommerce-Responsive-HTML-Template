@@ -1,7 +1,7 @@
 {
-  "name": "webpack-setup",
+  "name": "webpack-works",
   "version": "1.0.0",
-  "description": "",
+  "description": "ecommerce",
   "main": "index.js",
   "scripts": {
     "dev": "webpack --mode development",
@@ -9,7 +9,7 @@
     "build": "webpack -p"
   },
   "keywords": [],
-  "author": "",
+  "author": "samuelajalode <113217825+samuelajalode@users.noreply.github.com>",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.6.4",
@@ -35,5 +35,6 @@
   ],
   "dependencies": {
     "node-sass": "^4.14.1"
-  }
+  },
+  "repository": "https://github.com/samuelajalode/eCommerce-Responsive-HTML-Template.git"
 }

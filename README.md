@@ -22,7 +22,7 @@ Check the [Live Demo here](https://olog-ecommerce-template.netlify.app/).
 - Autoprefixer 
 
 ## Credits
-- Design by coded by [Zakir Soft](https://zakirsoft.com)
+- Design by coded by [@yflmsvg](https://zakirsoft.com)
 - Fonts by Google Fonts - [Poppins](https://fonts.google.com/specimen/Poppins)
 - Images from [Unsplash.com](http://unsplash.com)
 - SVG Icons from [Feather Icons](https://feathericons.com)
