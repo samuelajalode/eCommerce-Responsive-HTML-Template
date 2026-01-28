@@ -1,13 +1,7 @@
-# [Templatecookie](https://templatecookie.com)
-Templatecookie.com creates quality templates and php scripts. Templatecookie has many free HTML & Figma templates available for professional use. Templatecookie is famous for its premium PHP Scripts available on [Codeanyon Marketplace](https://codecanyon.net/user/templatecookie). Browse [Templatecookie](https://templatecookie.com) today and discover awesome digital products.
+eCommerce Responsive HTML Template]()
 
-# [Olog eCommerce Responsive HTML Template](https://olog-ecommerce-template.netlify.app/)
 
-> Olog eCommerce Responsive HTML Template based on bootstrap framework v4.5.
 
-This project is a bootstrap version [Olog eCommerce Responsive HTML Template](https://olog-ecommerce-template.netlify.app/) designed with HTML, CSS, SCSS, Bootstrap, Javascript & Jquery.
-
-Check the [Live Demo here](https://olog-ecommerce-template.netlify.app/).
 
 ![](dist/images/screenshot.png)
 
@@ -22,13 +16,12 @@ Check the [Live Demo here](https://olog-ecommerce-template.netlify.app/).
 - Autoprefixer 
 
 ## Credits
-- Design by coded by [Zakir Soft](https://zakirsoft.com)
 - Fonts by Google Fonts - [Poppins](https://fonts.google.com/specimen/Poppins)
 - Images from [Unsplash.com](http://unsplash.com)
 - SVG Icons from [Feather Icons](https://feathericons.com)
 
 ## License
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+The MIT License (MIT). 
 
 # Webpack Boilerplate
 This repository contains Webpack and SCSS boilerplate code to quickly get started on building a webpage following a simplified version of SASS (7-1 pattern).
